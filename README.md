@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hey, I'm Anshum 👋
 
-<!--
-**anshumchowdhary/anshumchowdhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student at Chandigarh University
+💻 Exploring Web Development & Software Development
+🚀 Learning by building real projects
 
-Here are some ideas to get you started:
+### 🛠️ Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML
+* CSS
+* JavaScript
+* C
+* Git & GitHub
+
+### 🚀 Featured Project
+
+**Custom-Pay**
+A simple web app for generating customizable UPI payment QR codes.
+
+### 📚 Currently Learning
+
+* Web Development
+* Programming Fundamentals
+* Git & GitHub
+* Building better projects
+
+### 🤝 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/anshum-chowdhary-666726388/
+
+---
+
+> Learning, building, and improving one project at a time.
